@@ -1,0 +1,6 @@
+framework module JuPrivatePod {
+  umbrella header "JuPrivatePod-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - JuPrivatePod (0.1.0)
+
+DEPENDENCIES:
+  - JuPrivatePod (from `../`)
+
+EXTERNAL SOURCES:
+  JuPrivatePod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JuPrivatePod: 741ea2df36d1dc318ffc37346b52c4bfc7c41c43
+
+PODFILE CHECKSUM: 7aace62cca6f5ea5a535915b701e6eb7b87991ac
+
+COCOAPODS: 1.10.0

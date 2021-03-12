@@ -1,0 +1,6 @@
+framework module Pods_JuPrivatePod_Tests {
+  umbrella header "Pods-JuPrivatePod_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

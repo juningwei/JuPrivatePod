@@ -1,0 +1,22 @@
+{
+  "name": "JuPrivatePod",
+  "version": "0.1.0",
+  "summary": "A short description of JuPrivatePod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/juningwei/JuPrivatePod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "juningwei": "juningwei@51testing.com"
+  },
+  "source": {
+    "git": "https://github.com/juningwei/JuPrivatePod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "JuPrivatePod/Classes/**/*"
+}

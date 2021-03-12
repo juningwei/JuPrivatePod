@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'JuPrivatePod_Example' do
+  pod 'JuPrivatePod', :path => '../'
+
+  target 'JuPrivatePod_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
